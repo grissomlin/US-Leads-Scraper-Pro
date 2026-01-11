@@ -33,6 +33,12 @@ Detailed step-by-step guides are available on **Vocus (方格子)**. It is highl
     **即時數據儀表板**：透過 Streamlit 介面監控進度並管理潛在客戶資料。
 * **Multi-Platform Deep Research**: Quick links to Google, Yelp, IG, and FB for instant background checks.
     **多平台深度調查**：內建一鍵跳轉 Google, Yelp, IG, FB 按鈕，快速核實商家背景。
+<img width="1838" height="854" alt="image" src="https://github.com/user-attachments/assets/e7ca27bb-cb2d-47da-9a50-d951fb58a4f9" />
+<img width="1863" height="900" alt="image" src="https://github.com/user-attachments/assets/a08b861e-38b5-49ae-a554-23a616750b76" />
+<img width="1464" height="843" alt="image" src="https://github.com/user-attachments/assets/10c95b01-c9c8-491c-a063-5f565044a563" />
+<img width="1505" height="839" alt="image" src="https://github.com/user-attachments/assets/ea817097-fe00-40c9-a69a-61d059f48415" />
+<img width="324" height="904" alt="image" src="https://github.com/user-attachments/assets/02453ba5-119f-46fe-8b5b-e7b9573aebf4" />
+
 
 ---
 
